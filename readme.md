@@ -1,36 +1,54 @@
-# 💫 About Me
+<h1 align="center">
+  Hi 👋, I'm Sai Harshith
+</h1>
 
-🔭 I’m currently working on **TechOrbit** — a scalable platform for tech news aggregation, student-written articles, college hackathons, and an AI-powered assistant (Orbiton).
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;System+Design+Learner;Building+TechOrbit+and+IdeaWaves" />
+</p>
 
-👯 I’m looking to collaborate on real-world **Full Stack** and **AI-powered** applications.
+---
 
-🤝 I’m looking for help with **system design, scalable backend architectures, and RAG-based AI models**.
+## 💫 About Me
 
-🌱 I’m currently learning **System Design, FastAPI, MERN Stack, MongoDB scaling, and AI integrations**.
+🔭 Currently building **TechOrbit** — a scalable tech news & student platform with an AI assistant (Orbiton – RAG based)
 
-💬 Ask me about **Java, Python, MERN Stack, FastAPI, MongoDB, REST APIs**.
+🚀 Also built **IdeaWaves** — a student idea collaboration and team-building platform
 
-⚡ Fun fact: I love converting student ideas into **production-ready platforms** 🚀
+🌱 Learning **System Design, scalable backend architectures, RAG models, and AI integrations**
+
+👯 Open to collaborations on **Full Stack & AI-powered products**
+
+💬 Ask me about **Java, Python, MERN, FastAPI, MongoDB, REST APIs**
+
+⚡ Turning student ideas into **real-world platforms**
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 TechOrbit
-- Scalable tech news & student platform  
-- AI-powered assistant (Orbiton – RAG based)  
-- Built with **FastAPI, React, MongoDB**
+- Tech news aggregation + student articles  
+- College hackathon postings  
+- AI assistant (Orbiton – RAG)
 
-🔗 Repo: https://github.com/Sai-Harshith-01/Tech-Orbit
+🔗 https://github.com/Sai-Harshith-01/Tech-Orbit
 
 ---
 
 ### 🔹 IdeaWaves
-- Student idea collaboration platform  
-- Real-time idea sharing & team formation  
-- Built for peer collaboration and innovation  
+- Student idea sharing & team formation  
+- Collaboration-first platform  
 
-🌐 Live: https://ideawaves-frontend.vercel.app/
+🌐 https://ideawaves-frontend.vercel.app/
+
+---
+
+## 🤖 AI & System Design Focus
+- Retrieval-Augmented Generation (RAG)
+- API Gateway & Microservices basics
+- Scalable MongoDB data modeling
+- Caching & performance optimization
+- Secure authentication flows
 
 ---
 
@@ -46,7 +64,10 @@
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Sai-Harshith-01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sai-Harshith-01&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Harshith-01&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
