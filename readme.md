@@ -3,24 +3,32 @@
 <h3 align="center">Full Stack Developer | AI Enthusiast | System Design Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Java+Developer;Building+Scalable+Products;TechOrbit+%7C+ProductGo+%7C+IdeaWaves" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Enthusiast;System+Design+Learner;Building+Scalable+Products;TechOrbit+%7C+ProductGo+%7C+IdeaWaves" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Computer Science Student passionate about building real-world software products
+🎓 Computer Science Student passionate about building scalable and impactful software solutions.
 
 🥉 **3rd Place Winner – Supervity Hackathon, Mumbai**
 
-🚀 Currently building **TechOrbit**, a technology news and student engagement platform with AI-powered assistance
+🤖 Experienced in building solutions using **AI Agent Command Centers**, agent orchestration workflows, and AI-powered automation.
 
-🛒 Developing **ProductGo**, an AI-powered e-commerce platform featuring multilingual processing, drag-and-drop visual search, AI chatbot services, and a microservices-based AI layer
+🔭 Currently building **TechOrbit**, a technology news and student engagement platform featuring an AI-powered assistant (Orbiton).
 
-💡 Built **IdeaWaves**, a collaboration platform that helps students transform ideas into real projects
+🛒 Developing **ProductGo**, an AI-powered e-commerce platform with:
 
-🌱 Currently learning:
+* Multilingual Processing
+* Drag-and-Drop Product Search
+* AI Chatbot Services
+* AI Agent Integrations
+* Microservices-Based AI Architecture
+
+💡 Built **IdeaWaves**, a collaboration platform that helps students transform ideas into real-world projects through team formation and collaboration.
+
+🌱 Currently Learning:
 
 * System Design
 * Microservices Architecture
@@ -28,7 +36,7 @@
 * Retrieval-Augmented Generation (RAG)
 * Scalable Backend Development
 
-💬 Ask me about:
+💬 Ask Me About:
 
 * Java
 * Python
@@ -37,19 +45,27 @@
 * MongoDB
 * REST APIs
 * AI Integrations
+* Microservices
 
 ⚡ Fun Fact:
-I enjoy turning innovative ideas into real-world platforms that solve meaningful problems.
+I enjoy transforming innovative ideas into products that solve real-world problems.
 
 ---
 
 ## 🏆 Achievements
 
-🥉 3rd Place Winner – Supervity Hackathon, Mumbai
+🥉 **3rd Place Winner – Supervity Hackathon, Mumbai**
 
-🚀 Built multiple real-world projects focused on AI, collaboration, healthcare, and e-commerce
+🤖 Built solutions using **Supervity AI Agent Command Center**
 
-📚 Continuously improving skills in DSA, System Design, Cloud, and Full Stack Development
+🚀 Experience with:
+
+* AI Agent Orchestration
+* Workflow Automation
+* Multi-Agent Systems
+* AI-Powered Problem Solving
+
+💡 Actively building products focused on AI, Cloud, E-Commerce, Healthcare, and Student Innovation.
 
 ---
 
@@ -57,38 +73,40 @@ I enjoy turning innovative ideas into real-world platforms that solve meaningful
 
 ### 📰 TechOrbit
 
-Technology news and student engagement platform with AI-powered assistance.
+Technology news and student engagement platform powered by AI.
 
-**Features**
+#### Highlights
 
 * AI Assistant (Orbiton)
 * Technology News Aggregation
-* Student Articles
+* Student Articles & Content Publishing
 * Hackathon & Opportunity Listings
 
 ---
 
 ### 🛒 ProductGo
 
-AI-powered e-commerce platform built with intelligent microservices.
+AI-powered e-commerce platform built around intelligent shopping experiences.
 
-**Features**
+#### Highlights
 
 * Multilingual Processing
-* Drag-and-Drop Product Search
-* AI Chatbot
+* AI Chatbot Assistance
+* Visual Product Search
+* Drag-and-Drop Search Experience
+* AI Agent Services
 * Microservices-Based AI Layer
 
 ---
 
 ### 💡 IdeaWaves
 
-Student collaboration platform for idea sharing and team formation.
+Student collaboration platform that enables innovators to connect and build together.
 
-**Features**
+#### Highlights
 
-* Idea Posting
-* Team Building
+* Idea Sharing
+* Team Formation
 * Collaboration Requests
 * Project Development
 
@@ -96,7 +114,22 @@ Student collaboration platform for idea sharing and team formation.
 
 ### 🏥 DocSpot
 
-Healthcare-focused platform aimed at improving accessibility and user experience.
+Healthcare-focused platform aimed at improving accessibility and user experience through technology.
+
+---
+
+## 🤖 AI & System Design Focus
+
+* Retrieval-Augmented Generation (RAG)
+* AI Agent Command Centers
+* Agent Orchestration Workflows
+* AI Chatbots
+* Workflow Automation
+* Microservices Architecture
+* API Gateway Design
+* Scalable Backend Systems
+* Cloud-Native Development
+* Authentication & Security
 
 ---
 
@@ -115,12 +148,26 @@ Healthcare-focused platform aimed at improving accessibility and user experience
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
 ### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### Areas of Interest
+
+AI/ML • Cloud Computing • DevOps • System Design • Product Engineering • Microservices
+
+---
+
+## 🎯 Current Focus
+
+* Building AI-Powered Products
+* Advanced System Design
+* Cloud & DevOps
+* Microservices Architecture
+* DSA & Problem Solving
 
 ---
 
@@ -146,4 +193,4 @@ Healthcare-focused platform aimed at improving accessibility and user experience
 
 ### ✨ Motto
 
-> "Building scalable technology that creates real-world impact."
+> "Building intelligent, scalable, and impactful technology for real-world challenges."
