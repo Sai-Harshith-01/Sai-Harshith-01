@@ -1,196 +1,82 @@
 # Hi 👋, I'm Sai Harshith
 
-<h3 align="center">Full Stack Developer | AI Enthusiast | System Design Learner</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Enthusiast;System+Design+Learner;Building+Scalable+Products;TechOrbit+%7C+ProductGo+%7C+IdeaWaves" />
-</p>
+### Computer Science Student | Java Developer | Full Stack Developer | AI Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-🎓 Computer Science Student passionate about building scalable and impactful software solutions.
+🎓 Prefinal Year Computer Science Student passionate about building impactful software solutions.
 
-🥉 **3rd Place Winner – Supervity Hackathon, Mumbai**
+🥉 3rd Place Winner – Supervity Autopilot Hackathon, Mumbai
 
-🤖 Experienced in building solutions using **AI Agent Command Centers**, agent orchestration workflows, and AI-powered automation.
-
-🔭 Currently building **TechOrbit**, a technology news and student engagement platform featuring an AI-powered assistant (Orbiton).
-
-🛒 Developing **ProductGo**, an AI-powered e-commerce platform with:
-
-* Multilingual Processing
-* Drag-and-Drop Product Search
-* AI Chatbot Services
-* AI Agent Integrations
-* Microservices-Based AI Architecture
-
-💡 Built **IdeaWaves**, a collaboration platform that helps students transform ideas into real-world projects through team formation and collaboration.
+💻 Skilled in Java, Python, JavaScript, React, MongoDB, REST APIs, and Full Stack Development.
 
 🌱 Currently Learning:
-
-* System Design
-* Microservices Architecture
-* Cloud Computing & DevOps
-* Retrieval-Augmented Generation (RAG)
-* Scalable Backend Development
-
-💬 Ask Me About:
-
-* Java
-* Python
-* React
-* FastAPI
-* MongoDB
-* REST APIs
-* AI Integrations
-* Microservices
-
-⚡ Fun Fact:
-I enjoy transforming innovative ideas into products that solve real-world problems.
+- Advanced Java
+- AWS Cloud Computing
+- System Design
+- Backend Development
 
 ---
 
 ## 🏆 Achievements
 
-🥉 **3rd Place Winner – Supervity Hackathon, Mumbai**
-
-🤖 Built solutions using **Supervity AI Agent Command Center**
-
-🚀 Experience with:
-
-* AI Agent Orchestration
-* Workflow Automation
-* Multi-Agent Systems
-* AI-Powered Problem Solving
-
-💡 Actively building products focused on AI, Cloud, E-Commerce, Healthcare, and Student Innovation.
+- 🥉 3rd Place – Supervity Autopilot Hackathon, Mumbai
+- 🏅 Oracle Certified Foundations Associate – Generative AI
+- ☁️ NPTEL Cloud Computing – Elite (82%)
+- 🤖 IBM Generative AI Certification
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🩸 LifeFlow AI
+AI-powered emergency blood donation and blood bank network.
+
 ### 📰 TechOrbit
-
-Technology news and student engagement platform powered by AI.
-
-#### Highlights
-
-* AI Assistant (Orbiton)
-* Technology News Aggregation
-* Student Articles & Content Publishing
-* Hackathon & Opportunity Listings
-
----
-
-### 🛒 ProductGo
-
-AI-powered e-commerce platform built around intelligent shopping experiences.
-
-#### Highlights
-
-* Multilingual Processing
-* AI Chatbot Assistance
-* Visual Product Search
-* Drag-and-Drop Search Experience
-* AI Agent Services
-* Microservices-Based AI Layer
-
----
+Technology news and student engagement platform with AI-powered assistant Orbiton.
 
 ### 💡 IdeaWaves
+Collaborative platform for students to share ideas and build projects.
 
-Student collaboration platform that enables innovators to connect and build together.
-
-#### Highlights
-
-* Idea Sharing
-* Team Formation
-* Collaboration Requests
-* Project Development
-
----
-
-### 🏥 DocSpot
-
-Healthcare-focused platform aimed at improving accessibility and user experience through technology.
-
----
-
-## 🤖 AI & System Design Focus
-
-* Retrieval-Augmented Generation (RAG)
-* AI Agent Command Centers
-* Agent Orchestration Workflows
-* AI Chatbots
-* Workflow Automation
-* Microservices Architecture
-* API Gateway Design
-* Scalable Backend Systems
-* Cloud-Native Development
-* Authentication & Security
+### 🛒 ProductGo
+AI-powered e-commerce platform with intelligent search and chatbot assistance.
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
+**Languages:** Java, Python, JavaScript, SQL
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+**Frontend:** React, HTML, CSS, Tailwind CSS
 
-### Frontend
+**Backend:** Node.js, FastAPI
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+**Database:** MongoDB, MySQL
 
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### Areas of Interest
-
-AI/ML • Cloud Computing • DevOps • System Design • Product Engineering • Microservices
-
----
-
-## 🎯 Current Focus
-
-* Building AI-Powered Products
-* Advanced System Design
-* Cloud & DevOps
-* Microservices Architecture
-* DSA & Problem Solving
+**Tools:** Git, GitHub, Postman, VS Code, IntelliJ IDEA
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sai-Harshith-01\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Sai-Harshith-01&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sai-Harshith-01\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Harshith-01\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Harshith-01&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: [www.linkedin.com/in/dhaipulley-sai-harshith](http://www.linkedin.com/in/dhaipulley-sai-harshith)
+💼 LinkedIn: www.linkedin.com/in/dhaipulley-sai-harshith
 
 💻 GitHub: github.com/Sai-Harshith-01
 
-📧 Email: [234g1a05d5@srit.ac.in](mailto:234g1a05d5@srit.ac.in)
+📧 Email: 234g1a05d5@srit.ac.in
 
 ---
 
 ### ✨ Motto
 
-> "Building intelligent, scalable, and impactful technology for real-world challenges."
+> Building intelligent and impactful technology that solves real-world problems.
